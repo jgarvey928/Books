@@ -17,7 +17,7 @@ This repository serves as a personal and collaborative knowledge base, housing s
 - [Methodologies & Testing (Agile/TDD)](#-methodologies--testing-agiletdd)
 - [Programming Languages & Technologies](#-programming-languages--technologies)
 - [Foundational Computer Science](#-foundational-computer-science)
-- [Networking](#networking)
+- [Networking](#-networking)
 
 ---
 
