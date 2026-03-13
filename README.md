@@ -17,10 +17,11 @@ This repository serves as a personal and collaborative knowledge base, housing s
 - [Methodologies & Testing (Agile/TDD)](#-methodologies--testing-agiletdd)
 - [Programming Languages & Technologies](#-programming-languages--technologies)
 - [Foundational Computer Science](#-foundational-computer-science)
+- [Networking](#networking)
 
 ---
 
-### 🏛 Architecture & System Design
+### 📐 Architecture & System Design
 Books focused on high-level system structures, distributed systems, and architectural patterns.
 * **Clean Architecture: A Craftsman's Guide to Software Structure and Design** - *Robert C. Martin*
 * **Designing Data-Intensive Applications** - *Martin Kleppmann*
@@ -34,7 +35,7 @@ Resources for solving common software design problems using proven patterns.
 * **Dependency Injection Principles, Practices, and Patterns** - *Steven van Deursen, Mark Seemann*
 * **Hands-On Design Patterns with Swift** - *Paco L. Perez*
 
-### ✨ Clean Code & Craftsmanship
+### 🧼 Clean Code & Craftsmanship
 Guides on writing readable, maintainable, and elegant code.
 * **Clean Code: A Handbook of Agile Software Craftsmanship** - *Robert C. Martin*
 * **The Pragmatic Programmer: Your Journey to Mastery** - *David Thomas, Andrew Hunt*
@@ -56,12 +57,19 @@ Deep dives into specific languages and modern infrastructure.
 * **Fluent Python (2nd Edition)** - *Luciano Ramalho*
 * **Learning Python (6th Edition)** - *Mark Lutz*
 * **Kubernetes Patterns** - *Bilgin Ibryam, Roland Huß*
+* **Learning Python (5th Edition)** - *Mark Lutz*
+* **Software Engineering (10th Edition)** - *Ian Sommerville*
+* **Guide to the Software Engineering Body of Knowledge (SWEBOK V4)** - *IEEE Computer Society*
 
-### 🧠 Foundational Computer Science
+### 🤖 Foundational Computer Science
 Timeless classics focusing on the core paradigms of programming and object-oriented analysis.
 * **Structure and Interpretation of Computer Programs (SICP)** - *Harold Abelson, Gerald Jay Sussman, Julie Sussman*
 * **Object-Oriented Software Construction** - *Bertrand Meyer*
 * **Object-Oriented Analysis and Design with Applications (3rd Edition)** - *Grady Booch*
+
+### 🌐 Networking
+* **Computer Networking: A Top-Down Approach (7th Edition Global)** - *Kurose*
+* **Computer Networks: A Systems Approach** - *Larry L. Peterson*
 
 ---
 
